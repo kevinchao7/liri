@@ -1,0 +1,25 @@
+
+OMDB API Search
+----------------
+Movie Title            : The Dark Knight
+Year released          : 18 Jul 2008
+IMDB Rating            : 9.0
+Country                : USA, UK
+Language               : English, Mandarin
+Cast                   : Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+Rotten Tomatoes        : 94%
+Plot                   : When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, the Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+
+Your Tweets
+----------------
+Saturday, August 26, 2017 5:16 PM => TweeterBot99: Isiah Thomas to the cavaliers?
+Saturday, August 26, 2017 5:15 PM => TweeterBot99: Kyrie to the celtics?!?
+Saturday, August 26, 2017 5:15 PM => TweeterBot99: Mayweather vs Mcgregor? Mayweather obviously.
+Saturday, August 26, 2017 5:15 PM => TweeterBot99: Testing 1
+
+Spotifty track search
+----------------------
+Artist           : Coldplay
+Song             : Yellow
+Preview Link URL : https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg
+Album            : Parachutes
